@@ -1,0 +1,27 @@
+clear {
+  clear:left;
+}
+#dice1{
+  height: 120px;
+width:120px;
+background-color: #b3b9c4;
+font-size:4rem;
+}
+#dice2{
+  height: 120px;
+width: 120px;
+background-color: #b3b9c4;
+font-size:4rem;
+}
+
+div .dice {
+float:left;
+width:32px;
+background-color:: #b0936d;
+font-size:18px;
+text-align:center;
+margin:12px;
+padding:10px
+
+
+}
