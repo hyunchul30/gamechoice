@@ -13,6 +13,13 @@ width: 120px;
 background-color: #b3b9c4;
 font-size:4rem;
 }
+#dice3{
+  height: 420px;
+width: 420px;
+background-color: #b3b9c4;
+font-size:4rem;
+
+}
 
 div .dice {
 float:left;
